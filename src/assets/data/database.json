@@ -1,0 +1,249 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pizzas",
+        "fotoUrl":"https://www.lavanguardia.com/files/article_main_microformat/uploads/2020/05/06/5eb2794863098.jpeg",
+        "productos": [ 
+        {
+            "id": 1,
+            "nombre": "Pizza común",
+            "precio": 1500,
+            "esVegano": false,
+            "esCeliaco": false,
+            "ingredientes": ["Masa de harina","Queso muzzarella"],
+            "fotoUrl":"https://www.lavanguardia.com/files/article_main_microformat/uploads/2020/12/02/5fc76d437553d.jpeg"
+        },
+        {
+            "id": 2,
+            "nombre": "Pizza Especial",
+            "precio": 2200,
+            "esVegano": false,
+            "esCeliaco": false,
+            "ingredientes": ["Masa de harina","Queso muzzarella", "Salsa de tomate", "Queso Quartirolo"],
+            "fotoUrl":"https://www.lavanguardia.com/files/image_948_465/uploads/2021/05/04/60911afc8b207.jpeg"
+        },
+        {
+            "id": 3,
+            "nombre": "Pizza Mega",
+            "precio": 4000,
+            "esVegano": true,
+            "esCeliaco": false,
+            "ingredientes": ["Masa de harina","Queso muzzarella", "Salsa de tomate", "Morron"],
+            "fotoUrl":"https://www.lavanguardia.com/files/image_990_484/files/fp/uploads/2021/03/30/6063031b90a87.r_d.1083-871-4870.jpeg"
+        },
+        {
+            "id": 4,
+            "nombre": "Pizza Veggie",
+            "precio": 3000,
+            "esVegano": true,
+            "esCeliaco": true,
+            "ingredientes": ["Masa de harina integral","Queso muzzarella", "Salsa de tomate"],
+            "fotoUrl":"https://www.lavanguardia.com/files/image_948_465/files/fp/uploads/2020/10/27/5f98042fa41ad.r_d.800-600.jpeg"
+        },
+        {
+            "id": 5,
+            "nombre": "Pizza Celia Cruz",
+            "precio": 2000,
+            "esVegano": false,
+            "esCeliaco": true,
+            "ingredientes": ["Masa de harina integral","Queso muzzarella", "Salsa de tomate","Huevo"],
+            "fotoUrl":"https://www.lavanguardia.com/files/article_main_microformat/uploads/2020/09/04/5f524d4ccfade.jpeg"
+        }]
+    },
+    {
+        "id": 2,
+        "nombre": "Hamburguesas",
+        "fotoUrl":"https://www.carniceriademadrid.es/wp-content/uploads/2022/09/smash-burger-que-es.jpg",
+        "productos": [
+            {
+                "id": 6,
+                "nombre": "Hamburguesa con queso",
+                "precio": 1500,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Carne de ternera","Pan Brioche","Queso"],
+                "fotoUrl":"https://fotos.perfil.com//2024/05/27/900/0/hamburguesas-1808899.jpg"
+            },
+            {
+                "id": 7,
+                "nombre": "Hamburguesa Especial",
+                "precio": 2200,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Carne de ternera","Pan Brioche","Queso","Huevo"],
+                "fotoUrl":"https://fotos.perfil.com//2024/05/27/900/0/hamburguesas-1808889.jpg"
+            },
+            {
+                "id": 8,
+                "nombre": "Hamburguesa Vegana",
+                "precio": 4000,
+                "esVegano": true,
+                "esCeliaco": true,
+                "ingredientes": ["Medallon de lentejas","Pan Brioche","Tomate","Lechuga"],
+                "fotoUrl":"https://fotos.perfil.com//2024/05/27/900/0/hamburguesas-1808892.jpg"
+            },
+            {
+                "id": 9,
+                "nombre": "Hamburguesa del Espacio",
+                "precio": 3000,
+                "esVegano": true,
+                "esCeliaco": false,
+                "ingredientes": ["Carne de ternera","Pan Negro","Doble Queso","Cheddar"],
+                "fotoUrl":"https://fotos.perfil.com//2024/05/27/900/0/hamburguesas-1808896.jpg"
+            },
+            {
+                "id": 10,
+                "nombre": "Hamburguesa Spiderman",
+                "precio": 2000,
+                "esVegano": false,
+                "esCeliaco": true,
+                "ingredientes": ["Carne de ternera","Pan Brioche","Cheddar","Huevo"],
+                "fotoUrl":"https://fotos.perfil.com//2024/05/27/900/0/hamburguesas-1808887.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Postres",
+        "fotoUrl":"https://www.paulinacocina.net/wp-content/uploads/2024/01/receta-de-postre-de-maracuya-Paulina-Cocina-Recetas-640x360.jpg",
+        "productos": [
+            {
+                "id": 11,
+                "nombre": "Tiramisu",
+                "precio": 1500,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Café", "Crema", "Queso crema"],
+                "fotoUrl":"https://www.recetasnestlecam.com/sites/default/files/styles/crop_article_banner_desktop_nes/public/2023-03/postre-en-vaso-dulce-leche.jpg.webp?itok=ATewcWHn"
+            },
+            {
+                "id": 12,
+                "nombre": "Tutti-Fruttilla",
+                "precio": 1200,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Crema", "Queso crema", "Frutillas"],
+                "fotoUrl":"https://www.recetasnestlecam.com/sites/default/files/inline-images/postre-en-vaso-frambuesas.jpg_0.jpg"
+            },
+            {
+                "id": 13,
+                "nombre": "Supercopa de chocolate",
+                "precio": 1000,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Crema", "Queso crema", "Chocolate"],
+                "fotoUrl":"https://www.recetasnestlecam.com/sites/default/files/inline-images/postre-en-vaso-chocolate-crema.jpg_0.jpg"
+            },
+            {
+                "id": 14,
+                "nombre": "Postre oreo",
+                "precio": 1000,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Crema", "Queso crema", "Chocolate oreo"],
+                "fotoUrl":"https://www.recetasnestlecam.com/sites/default/files/inline-images/postre-en-vaso-galleta.jpg_0.jpg"
+            },
+            {
+                "id": 15,
+                "nombre": "Chocopostre",
+                "precio": 1000,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Crema", "Queso crema", "Chocolate","Dulce de leche"],
+                "fotoUrl":"https://www.recetasnestlecam.com/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/8344f7c71c1820a1dee5249414df8e19.webp?itok=xFMvxlik"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Bebidas",
+        "fotoUrl":"https://i0.wp.com/www.aquasushi.cl/wp-content/uploads/aqua-botellas-coca.jpg?fit=600%2C600&ssl=1",
+        "productos": [
+            {
+                "id": 16,
+                "nombre": "Coca-cola",
+                "precio": 1500,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Gaseosa sabor cola"],
+                "fotoUrl":"https://file.adomicil.io/carlsjr.adomicil.io/_files/images/product/divisiones10bebidas-0303702460277687.jpg"
+            },
+            {
+                "id": 17,
+                "nombre": "SevenUp",
+                "precio": 1500,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Gaseosa sabor limón"],
+                "fotoUrl":"https://file.adomicil.io/carlsjr.adomicil.io/_files/images/product/bebidas05sprite-0256957936685978.jpg"
+            },
+            {
+                "id": 18,
+                "nombre": "Fanta",
+                "precio": 1500,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Gaseosa sabor naranja"],
+                "fotoUrl":"https://file.adomicil.io/carlsjr.adomicil.io/_files/images/product/bebidas06fantanaranja-00793790337999254.jpg"
+            },
+            {
+                "id": 19,
+                "nombre": "Agua Eco",
+                "precio": 1500,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Agua mineral sin gas"],
+                "fotoUrl":"https://file.adomicil.io/carlsjr.adomicil.io/_files/images/product/bebidas09cielnatural-0450751626142651.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Empanadas",
+        "fotoUrl":"https://www.cucinare.tv/wp-content/uploads/2022/12/317452583_453700383614669_7515672253474356874_n-768x512.jpg",
+        "productos": [
+            {
+                "id": 21,
+                "nombre": "Empanadas de carne dulce",
+                "precio": 800,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Carne de ternera", "Aceitunas", "Pasa de uva", "Huevo"],
+                "fotoUrl":"https://images.getrecipekit.com/20230203172258-3.png?width=650&quality=90&"
+            },
+            {
+                "id": 22,
+                "nombre": "Empanada JyQ",
+                "precio": 800,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Jamón","Queso"],
+                "fotoUrl":"https://images.getrecipekit.com/20230203172258-3.png?width=650&quality=90&"
+            },
+            {
+                "id": 23,
+                "nombre": "Empanada Veggie",
+                "precio": 4800,
+                "esVegano": true,
+                "esCeliaco": false,
+                "ingredientes": ["Vegetales", "Queso"],
+                "fotoUrl":"https://images.getrecipekit.com/20230203172258-3.png?width=650&quality=90&"
+            },
+            {
+                "id": 24,
+                "nombre": "Empanada de atún",
+                "precio": 800,
+                "esVegano": false,
+                "esCeliaco": false,
+                "ingredientes": ["Atún", "Queso", "Cebolla"],
+                "fotoUrl":"https://images.getrecipekit.com/20230203172258-3.png?width=650&quality=90&"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Combos",
+        "fotoUrl":"https://www.cucinare.tv/wp-content/uploads/2022/12/317444217_6040463579371424_6635540535657814972_n-768x512.jpg",
+        "productos": []
+    }
+]
