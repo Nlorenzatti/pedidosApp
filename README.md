@@ -1,3 +1,8 @@
+DESCRIPCIÓN DEL PROYECTO
+  La aplicación pedidosApp es una aplicación generica adaptable a cualquier negocio creada para funcionar en un celular, la cual permite realizar un catálogo de nuestros productos para que un usuario pueda realizar el pedido de los mismos completando con sus datos en la sección de usuario y filtrar por productos si está interesado en alguno particular.
+  
+
+
 # PedirComida
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
